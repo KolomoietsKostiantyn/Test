@@ -1,11 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Drawing;
-using System.Threading;
-1
-namespace PathFinding
+
 {
     delegate void PointHandler(object sender, PointEventArgs args);
     delegate void ListHandler(object sender, ListEventArgs args);
