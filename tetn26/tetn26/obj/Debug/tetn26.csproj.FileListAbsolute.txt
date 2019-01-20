@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\tetn26\tetn26\bin\Debug\tetn26.exe.config
-C:\Users\User\Desktop\tetn26\tetn26\bin\Debug\tetn26.exe
-C:\Users\User\Desktop\tetn26\tetn26\bin\Debug\tetn26.pdb
-C:\Users\User\Desktop\tetn26\tetn26\obj\Debug\tetn26.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\tetn26\tetn26\obj\Debug\tetn26.exe
-C:\Users\User\Desktop\tetn26\tetn26\obj\Debug\tetn26.pdb
